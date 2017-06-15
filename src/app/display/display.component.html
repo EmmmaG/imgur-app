@@ -1,0 +1,10 @@
+<h1>hi</h1>
+<section>
+    <div class="container-fluid">
+        <div *ngFor="let displayItem of data"  style="display: inline-block;">
+            <a [href]="displayItem.link" target="_blank">
+                <img *ngIf="!displayItem.is_album" [src]="displayItem.link" alt="empty" width="100px" height="100px" />
+            </a>
+        </div>
+    </div>
+</section>
