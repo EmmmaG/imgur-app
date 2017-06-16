@@ -1,4 +1,4 @@
-<hr />
+
 ![](https://github.com/EmmmaG/readme-pics/blob/master/1.jpg)
 <hr />
 
