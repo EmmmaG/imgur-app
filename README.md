@@ -23,4 +23,11 @@ Have been solved with displaying one of my own nice album, access token has been
 <br />
 <br />
 Header has been used in Angular service document to provide the authorization client id, api has been successfully accessed to get JSON doc.
+* Trying to use the Imgur image upload api in Angular2
+* Haven't create any service with a POST method by using api, a bit confused
+* Have no idea how to convert a image file to 'Binary file' or 'base64 data'
+* Downloaded a converted 'base64 data', tried to post with Postman to see which kind of data will be responsed, but failed...
+* Tried without adding any parameters with the upload api in Postman, received data error: 'no image data was sent...',which means the client id works...
+* So how to set the parameter if I have the base64 data will be another issue...
+
 
