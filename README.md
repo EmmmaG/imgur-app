@@ -22,9 +22,7 @@ Have been solved with displaying one of my own nice album, access token has been
 <br />
 <br />
 Header has been used in Angular service document to provide the authorization client id, api has been successfully accessed to get JSON doc.
-<br />
-* ~~will add more styles FOR SURE....~~
-<br />
+
 <br />
 Simple CSS has been applied and current page displayed as below
 <br />
