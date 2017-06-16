@@ -1,3 +1,7 @@
+<hr />
+![](https://github.com/EmmmaG/readme-pics/blob/master/1.jpg)
+<hr />
+
 # ImgurApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.1.
@@ -8,10 +12,6 @@ The purpse of creating this app is to display photos from imgur gallery by using
 * npm install 
 * ng serve --open
 
-
-<hr />
-![](https://github.com/EmmmaG/readme-pics/blob/master/1.jpg)
-<hr />
 ## Issues have been faced
 
 * ~~not familar with imgur api and has spent a lot of time to find a nice gallery,  can only using the default one at this moment to try if angular functioned well.~~
