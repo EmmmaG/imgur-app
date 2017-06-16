@@ -5,15 +5,29 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 The purpse of creating this app is to display photos from imgur gallery by using imgur api.
 
 ## Run
-npm install
-ng serve
+* npm install 
+* ng serve --open
 
-!better don't run it during this period as this is a initial stage, without any nice style as well as nice album
 
 <hr />
 
-## Current Issue
+## Issues have been faced
 
-* not familar with imgur api and has spent a lot of time to find a nice gallery,  can only using the default one at this moment to try if angular functioned well.
-* have a thought of creating my own nice album and display it, will do more research on it 
-* will add more styles FOR SURE....
+* ~~not familar with imgur api and has spent a lot of time to find a nice gallery,  can only using the default one at this moment to try if angular functioned well.~~
+
+* ~~have a thought of creating my own nice album and display it, will do more research on it.~~
+<br />
+<br />
+Have been solved with displaying one of my own nice album, access token has been created by following the instruction on Imgur website with postman.
+<br />
+<br />
+Header has been used in Angular service document to provide the authorization client id, api has been successfully accessed to get JSON doc.
+<br />
+* ~~will add more styles FOR SURE....~~
+<br />
+<br />
+Simple CSS has been applied and current page displayed as below
+<br />
+![page](https://github.com/EmmmaG/readme-pics/blob/master/1.jpg)
+<br />
+![by clicking](https://github.com/EmmmaG/readme-pics/blob/master/2.png)
