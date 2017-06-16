@@ -1,3 +1,7 @@
+![](https://github.com/EmmmaG/readme-pics/blob/master/1.jpg)
+<br />
+![](https://github.com/EmmmaG/readme-pics/blob/master/2.png)
+
 # ImgurApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.1.
@@ -26,6 +30,4 @@ Header has been used in Angular service document to provide the authorization cl
 <br />
 Simple CSS has been applied and current page displayed as below
 <br />
-![](https://github.com/EmmmaG/readme-pics/blob/master/1.jpg)
-<br />
-![](https://github.com/EmmmaG/readme-pics/blob/master/2.png)
+
