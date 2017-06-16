@@ -28,6 +28,6 @@ Header has been used in Angular service document to provide the authorization cl
 <br />
 Simple CSS has been applied and current page displayed as below
 <br />
-![page](https://github.com/EmmmaG/readme-pics/blob/master/1.jpg)
+![Image text](https://github.com/EmmmaG/readme-pics/blob/master/1.jpg)
 <br />
-![by clicking](https://github.com/EmmmaG/readme-pics/blob/master/2.png)
+![Image text](https://github.com/EmmmaG/readme-pics/blob/master/2.png)
